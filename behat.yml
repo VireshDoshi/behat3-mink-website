@@ -1,0 +1,13 @@
+default:
+  extensions:
+    Behat\MinkExtension:
+      base_url:  'http://www.monster.co.uk'
+      browser_name: firefox
+      sessions:
+        default:
+          selenium2: ~
+  suites:
+      backend:
+          contexts:
+              - FeatureContext:
+                 screen_shot_path: ./screenshot
