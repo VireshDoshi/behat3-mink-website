@@ -1,0 +1,6 @@
+/vendor
+composer.phar
+composer.lock
+selenium-server-standalone-2.48.2.jar
+/screenshot
+
