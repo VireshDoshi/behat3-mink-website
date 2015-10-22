@@ -1,7 +1,7 @@
 # behat3-mink-website
 BDD - Behat 3 with Mink and Mink Extensions against monster.co.uk website
   
-<b>This example will demonstrate the following:  </b>
+<b>This example will demonstrate the following:  </b>  
 1. Failed steps via AfterStep hook screenshots saved into the screenshot directory  
 2. Mink-Extensions libray of pre-existing steps  
 3. Behat  
